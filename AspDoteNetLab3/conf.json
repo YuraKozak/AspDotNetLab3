@@ -1,0 +1,9 @@
+{
+  "Title": "ApsDotNetLab3",
+  "LogFile": "login.txt",
+  "namespace": {
+    "class": {
+        "method": "AddJson"
+      }
+    }
+}

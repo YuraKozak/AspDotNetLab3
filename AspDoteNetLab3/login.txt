@@ -1,0 +1,23 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: F:\ASP\AspDoteNetLab3\AspDoteNetLab3
+  7/14/2022 9:06:06 PM /sdadas/dsadsad/fadsfas
+  7/14/2022 9:24:56 PM /sdadas/dsadsad/fadsfas
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: F:\ASP\AspDoteNetLab3\AspDoteNetLab3
+  7/14/2022 9:25:23 PM /sdadas/dsadsad/fadsfas
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: F:\ASP\AspDoteNetLab3\AspDoteNetLab3
+  7/14/2022 9:27:03 PM /sdadas/dsadsad/fadsfas
+  7/14/2022 9:29:20 PM /Session/Veiw/name
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: F:\ASP\AspDoteNetLab3\AspDoteNetLab3
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: F:\ASP\AspDoteNetLab3\AspDoteNetLab3
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: F:\ASP\AspDoteNetLab3\AspDoteNetLab3

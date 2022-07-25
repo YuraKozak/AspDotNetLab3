@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties conf_1json__JsonSchema="https://json.schemastore.org/geojson.json" /></VisualStudio></ProjectExtensions>
+
+</Project>
